@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1173067101",
+    "project_id": "supply-chain-409306",
+    "storage_bucket": "supply-chain-409306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1173067101:android:2cbd9639bec52737d7c4b4",
+        "android_client_info": {
+          "package_name": "com.example.gemini_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgPKfdaQKEZzRDQhdZ82pzjJlLuEGS3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
