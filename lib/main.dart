@@ -8,10 +8,8 @@ import 'package:gemini_clone/screens/chatscreen.dart';
 import 'package:gemini_clone/screens/homescreen.dart';
 
 void main() async {
-  // await Firebase.initializeApp(
-  //   options: DefaultFirebaseOptions.currentPlatform,
-  // );
-  Gemini.init(apiKey: 'AIzaSyAoEEnZQ7dnHEOfjOPjjEJULL3-RLoEXY0');
+
+  Gemini.init(apiKey: 'YOUR_API_KEY');
   runApp(const MyApp());
 }
 
