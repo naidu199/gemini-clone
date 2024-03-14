@@ -27,7 +27,6 @@ Screenshots
 
 
 
-
 Acknowledgments
 Thanks to the creators of Gemini for providing the API.
 Inspiration from the Gemini protocol.
