@@ -5,7 +5,7 @@ Overview
 
 This repository contains the source code for a Gemini clone built using Flutter for both Android and a web application.
 
-The project utilizes the Gemini API to fetch and display data.
+The project utilizes the Gemini API to fetch and display the data.
 
 Features
 
