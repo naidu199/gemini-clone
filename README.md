@@ -15,7 +15,7 @@ Gemini API Integration: Utilizes the Gemini API for fetching data.
 
 Responsive Design: Ensures a consistent user experience across different devices.
 
-Screenshots
+Screenshots of the application 
 
 
 <img width="400" height="700" alt="Screenshot_1710080203" src="https://github.com/naidu199/gemini-clone/assets/141550407/e7997c22-9ccd-40d1-bfd9-cd7e430f13a6">
