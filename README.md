@@ -2,7 +2,6 @@
 Gemini Clone with Flutter and Gemini API
 
 Overview
-
  Gemini clone built using Flutter for both Android and a web application.
 
 The project utilizes the Gemini API to fetch and display the data.
